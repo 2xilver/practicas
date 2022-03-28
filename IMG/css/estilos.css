@@ -1,0 +1,63 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(158, 158, 158)
+    ;}
+
+ul{
+    line-height: 21px;
+    
+}
+p{
+    color: whitesmoke;
+}
+.navUno{
+    
+    position: relative;
+    background-color: rgb(61, 61, 61);
+    float: left;
+    padding: 300px;
+    height: 600px;
+    line-height: 10px;
+
+    
+}
+.navDos{
+    position: relative;
+    background-color: rgb(61, 61, 61);
+    float: right;
+    padding: 10px;
+    height: 600px;
+    line-height: 30px;
+
+}
+    
+img{
+   width: 50%;
+   max-width: 600px;
+   max-height: 600px;
+   float: left;
+   margin-right: 30px;
+   margin-top: 5px;
+}
+a{
+    float: right;
+}
+#siguientecen{
+    float: right;
+    margin-right: 10px;
+
+}
+#anteriorcen{
+    float: right;
+    margin-right: 30px;
+    
+
+}
+#anteriorfin{
+    float: right;
+    margin-right: 10px;
+}
+#siguienteprin{
+    float: right;
+    margin-right: 10px;
+}
